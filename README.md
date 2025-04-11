@@ -1,2 +1,0 @@
-# Hooks
-Programação mobile

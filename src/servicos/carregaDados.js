@@ -1,11 +1,10 @@
-import produtores from '../mocks/produtores';
-import topo from '../mocks/topo';
+import produtores from "../mocks/produtores";
+import topo from "../mocks/topo";
 
-
-export const carregaProdutores =()=>{
+export const carregaProdutores = () => {
     return produtores;
 }
 
-export const carregaTopo = () =>{
+export const carregaTopo = () => {
     return topo;
 }
